@@ -1,18 +1,73 @@
 # Hi, I am Bipasa Gyawali 👋
 
-🎓 Master of Engineering — Information Technology  
-📍 Helsinki, Finland  
-☸️ Cloud Engineer | Kubernetes Security | DevOps  
+Cloud Engineer in Progress | Kubernetes | 
+k3s | TLS Security | M.Eng Information 
+Technology | Metropolia 2026
 
 ## About Me
-Recent M.Eng graduate from Metropolia 
-University of Applied Sciences. 
-My thesis focused on securing database 
-services in lightweight Kubernetes (k3s) 
-clusters using Traefik Ingress and TLS.
+I am a Master of Engineering graduate from 
+Metropolia University of Applied Sciences, 
+specialising in cloud-native infrastructure 
+and security.
+
+My thesis focused on designing and 
+implementing a secure access architecture 
+for database services in lightweight 
+Kubernetes (k3s) clusters using Traefik 
+Ingress and TLS encryption. The work was 
+published and is permanently archived in 
+the Finnish Theseus database.
+
+What I bring:
+
+→ Hands-on Kubernetes experience 
+   (k3s, kubectl, deployments, services, 
+   ingress, secrets, network policies)
+
+→ Security mindset 
+   (TLS, RBAC, credential management, 
+   network isolation, threat analysis)
+
+→ Database knowledge 
+   (PostgreSQL, MySQL, pgAdmin)
+
+→ Linux and DevOps foundation 
+   (Debian, Bash, Docker, VirtualBox)
+
+→ Full stack development background
+
+→ Research and documentation skills 
+   (published academic thesis)
+
+Currently working on:
+→ AWS Cloud Practitioner certification
+→ Certified Kubernetes Administrator (CKA)
+→ Cloud portfolio projects on GitHub
+
+Open to opportunities in:
+→ Cloud Engineering
+→ DevOps Engineering
+→ Platform Engineering
+→ Cloud Security
 
 Published thesis:
 URN:NBN:fi:amk-2026052818665
+
+## Skills
+Kubernetes, k3s, Docker, Linux, Traefik, 
+TLS/SSL, PostgreSQL, MySQL, pgAdmin, YAML, 
+Bash Scripting, Network Security, Cloud 
+Security, DevOps, Git, Full Stack 
+Development, Python, REST APIs, Networking
+
+## Educational Details
+School: Metropolia University of Applied Sciences
+Degree: Master of Engineering
+Field: Information Technology
+Years: 2025 - 2026
+Description: Thesis on secure database 
+access in Kubernetes (k3s) using 
+Traefik Ingress and TLS
 
 ## Currently Working On
 - 🔐 AWS Certified Cloud Practitioner
