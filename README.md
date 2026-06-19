@@ -69,6 +69,20 @@ Description: Thesis on secure database
 access in Kubernetes (k3s) using 
 Traefik Ingress and TLS
 
+## Accomplishments and Publications
+Title: Secure and Privacy-Preserving 
+Access to Database Services in 
+Lightweight Kubernetes Clusters (k3s) 
+using Traefik Ingress and TLS
+
+Publisher: Metropolia University of 
+Applied Sciences / Theseus
+
+Date: May 2026
+
+URL: https://urn.fi/URN:NBN:fi:amk-2026052818665
+
+
 ## Currently Working On
 - 🔐 AWS Certified Cloud Practitioner
 - ☸️ Certified Kubernetes Administrator (CKA)
